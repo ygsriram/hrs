@@ -12,4 +12,4 @@ You can then added the model into the assests folder to run the use it in the an
 ![alt text](https://github.com/ygsriram/hrs/blob/main/project_images/ezgif.com-gif-maker%20(1).gif)
 
 
-the above images show the working of the application
+The above images show the working of the application
