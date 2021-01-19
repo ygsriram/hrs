@@ -8,7 +8,8 @@ I have created a Profanity_&_Hate_Speech_Detection.ipynb that you can use to ana
 
 You can then added the model into the assests folder to run the use it in the android application.
 
-![alt text](https://drive.google.com/file/d/1to9s5Ybd-hJKRKX5Av13tl2KeXfiSddZ/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1iyUW0idsl456v9dJ24zGNqJPpj3mmSrJ/view?usp=sharing)
+![alt text](https://github.com/ygsriram/hrs/blob/main/project_images/ezgif.com-gif-maker.gif)
+![alt text](https://github.com/ygsriram/hrs/blob/main/project_images/ezgif.com-gif-maker%20(1).gif)
+
 
 the above images show the working of the application
