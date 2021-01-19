@@ -6,7 +6,7 @@ In this repository, we will be looking at how create a Profanity & Hate Speech D
 
 I have created a Profanity_&_Hate_Speech_Detection.ipynb that you can use to analyse and create the hrs tflite model.
 
-You can then added the model into the assests folder to run the use it in the android application.
+You can then added the model into the assests folder to use it in the android application.
 
 ![alt text](https://github.com/ygsriram/hrs/blob/main/project_images/ezgif.com-gif-maker.gif)
 ![alt text](https://github.com/ygsriram/hrs/blob/main/project_images/ezgif.com-gif-maker%20(1).gif)
