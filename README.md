@@ -27,3 +27,5 @@ The above images show the working of the application
 4.   https://www.kaggle.com/sanikamal/text-classification-with-python-and-keras#What-Is-a-Word-Embedding?
 
 5.   https://hackernoon.com/deploy-first-tensorflow-model-in-android-app-l02w3yb8
+
+6.   https://code.tutsplus.com/tutorials/create-a-custom-keyboard-on-android--cms-22615
